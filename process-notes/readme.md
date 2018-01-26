@@ -49,7 +49,7 @@ Repeated same process and used Sublime Text Editor to see what was exactly displ
 
 We Copied the camera model (xt1650) and pasted it into the file information slot, and then added the sensor width (5.8mm). 
 
-Everything was displayed! It Worked! (sort of)...
+Everything was displayed! It Worked! (sort of)
 
 We clicked on compute matches and waited for Regard 3D to load... The result was a 3D image of 5 tiny square points. 
 
