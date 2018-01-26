@@ -51,7 +51,7 @@ We Copied the camera model (xt1650) and pasted it into the file information slot
 
 Everything was displayed! It Worked! (sort of)
 
-We clicked on compute matches and waited for Regard 3D to load... The result was a 3D image of 5 tiny square points. 
+We clicked on "compute matches" and waited for Regard 3D to load... The result was a 3D image of 5 tiny square points. 
 
 We set match points to ultra and waited for Regard 3D to load once more.
 
