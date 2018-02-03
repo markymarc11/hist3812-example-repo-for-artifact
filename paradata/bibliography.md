@@ -9,7 +9,15 @@ use harvard author-date style.
 
 Benjamin, Walter. 1969. The Work of Art in the Age of Mechanical Reproduction. New York: Schocken Books.
 
+Ebner, Dave. 02 July 1998: B2. The Ottawa Citizen. Ottawa, Ontario.
+
+Marshal, Tabitha. 2017. Terry Fox. Historica Canada. 
+
+Latour, Bruno & Adam Lowe. 2010. The Migration of the Aura or How to Explore the Original Through its Facsimile. Chicago: University of Chicago Press.
+
 Perrone, Julie. 2013. Constructing a National Hero. Cancer Politics, Masculinity and Canadian Identity in the Terry Fox Story. Montreal: Concordia University.
 
-Latour, Bruno & Adam Lowe. 2010. The Migration of the Aura or How to Explore the Original Through its Facsimile. Chicago: University of Chicago Press. 
+2018. Terry’s Story. Terry Fox Foundation. http://www.terryfox.org/terrys-story/. 
+
+
 
