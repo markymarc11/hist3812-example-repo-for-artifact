@@ -82,7 +82,7 @@ Compute matches
 Opened up Meshlab
 - Opened up the new 3D rendering that had been produced
 - getting rid of the extra bits around the image
-- Used the select vertexes tool, dragged around what i didn;t want
+- Used the select vertexes tool, dragged around what i didn't want
 - then used the tool "delete the current set of selected vertices" button
 - repeated until had gotten rid of everything didnt want
 - with the new image that was produced the file was saved as a .ply file
@@ -97,4 +97,18 @@ Opened up Meshlab
 - still hate sketchfab
 - able to upload an image that is just a blank model of the image with no colour, still shows texture though
 - need more time to try and figure out how to upload it without losing parts of the model
+
+Trying Meshlab again
+- used the first version of the model from Regard3D
+- repeated same steps to remove excess dots around image
+- exported mesh as .obj file
+- moved the previous .obj and .mtl files out of the folder, and put in seperate folder
+- zipped the folder with the new .obj file in it
+- upload to meshlab
+- no more weird missing colour patches
+- i hate meshlab less now
+
+new model
+- there are parts of the model missing, from when cleaning up the random dots
+- will need to figure out how to attach everything together for next module when looking more into 3D printing
 
