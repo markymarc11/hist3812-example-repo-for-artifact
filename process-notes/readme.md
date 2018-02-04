@@ -1,64 +1,104 @@
 # readme
 
-In this folder please include copies of any note files you took during this process.
+So starting to use the scann3D has been an interesting experience nto sure why but the picture kept on adding extra eyes to the scan tried taking out some of the blurry pictures, but that didn't work out very well at all still not sure what is wrong with it
 
-January 16, 2018: My parter Marc and I traveled to downtown Ottawa to take pictures of the Terry Fox Statue that we would use to make a 3D model.
+Started work on 3d project today Tuesday 16th
+took pictures of Terry Fox statue in front of parliament hill
+had to get on Matt's shoulders to take some of the higher pictures, hopefully they turn out well
+weather was a bit crappy out, little bits of blowing snow, and a bit cloudy, could end up affecting the overal image
+Regard3D
 
-Marc and I brushed off as much snow as we could, but that the light snow that had been falling might have created a problem with theclarity of the pictures.
+Terry Fox File
+TRied adding photo set
+opens other window was hidden behind
+selected all and added
+picture set name Terry Fox
+Unknown focal length for far too pictures, try using pictures with better focal lengths
+Picture set, recognizes camera make and model, but not sensors, had to add in the sensors by googling the sensors for phone sensors were 4.69 X 3.52 mm or 0.23 inches (5.8 mm) Tried changing the focal point and sensory width to make it work
 
-The first 30 pictures that I took were of too low of an angle and did not capture the upper details of the statue.
+nothing changed
+Starting over file place /Users/johnw/Documents/test4/test4.r3d
 
-To get a better viewpoint, Marc got on my shoulders and he was able to take pictures that showcased the statue entirely.
+retried adding the picture set again, still did not work, came up with the same warning
+changed Motorola to motorola, see if uppercase lower cchanges
+changes still did not work
+changing metadata, using exiftool, google search it phil harvey
 
-Marc took around 50 pictures of the Terry Fox Statue from the better angle on top of my shoulders.
+if having problems on mac, click control, then click open
 
+electricarchaeology.ca Shawns personal website
 
-January 17, 2018:  Met with Professor Graham in the Underhill Computer Lab to use the software Regard 3D in order to attempt to create a digital model.
+Shawn does computer type commmands to try and change the senors, it doesnt work
 
-Regard 3D was slow to open at first.
+tried changing things through multiple different ways, still not showing up as changes through regard3D
 
-We created the file named Terry Fox file.
+trying to use submlime text, it is a text editor, shows you precisely what is on a file, Excel is by microsoft and it is the devil, they were adding some form of little info which we could not see we copied the model number and info directly, and it finally showed the sensory width Computing the picture matches
 
-Marc transfered the photo files from his phone onto a USB stick and uploaded them to the computer (this took some time).
+takes a long time
 
-Once the files had been loaded, the computer informed us that the file information for the camera make, camera model, focal length and sensor size were unknown; therefore the images could not be processed by Regard 3D. 
+finally worked after 27 minutes compute matches
 
-We found the camera make and model on Marc's phone (camera make: motorola and camera model: xt1650).
+wait more
 
-We googled the camera make and model to find the information of the focal length (3.68mm) and sensor size (5.8mm) 
+TRiangulate, we decided to try Global triangulation because it fit our setting needs (used the came camera and same amount of zoom)
 
-We added the information to the file and reloaded the picture set.
+we realized at this point that it was not showing us an image that we wanted, went back tmo computing the pictures, and changed the keypoint sensitivity and keypoint matching ratio to ultra
 
-It didn't change anything.  We started over. 
+may need to edit pictures
 
-We uploaded new picture file with file name as Terry Fox1.
+ended up having to leave because it was taking too long, was at 30 minutes and looked like only 50% loaded
 
-We re-added the information and found out that we had entered a lower case "m' instead of an upper case "M" for the camera model information that was preventing the software from processing the file information. Added new camera make (Motorola). 
+went home and used Paint to get rid of the background images of the file
 
-Reloaded picture set and the file information for sensor size and focal length were still not available.
+saved files should work better on regard3D next time hopefully
 
-Installed Exif Tool to manually change the information on the file. 
+Jan 22
 
-Exif Tool would not open at first due to security reasons.  We had to control click to bypass the security check and open Exif Tool. 
+Users/marcbitar/Documents/Terry/Terry.r3d going through the command terminal
+ls for list
+cd for change directory
+make: new
+Camera model: XT1650
+Focal l;ength 3.7 mm
+sensors 5.8 mm had to change the settings, the commands used are on shawns website https://electricarchaeology.ca/2018/01/20/3d-models-from-archival-film-video-footage/ step 2 Compute matches
+ultra settings for all Triangulate
+used incremental structure from Motion Densification
+Used CMVS/PMVS and preset settings, then tried chagning settings level 0 Cells size 1 Threshold 0.79 wsize 8 min num image 3 Create Surface
+Tried one with texture and one with colour (thing) the one with colour seemed to look better
+exported it
+then went back to try and play with some of the pictures
+took too long, so had to stop and export the primary image
+Opened up Meshlab
 
-We used Exif Tool to manually change the focal length but we were not able to change the sensor size. 
+Opened up the new 3D rendering that had been produced
+getting rid of the extra bits around the image
+Used the select vertexes tool, dragged around what i didn't want
+then used the tool "delete the current set of selected vertices" button
+repeated until had gotten rid of everything didnt want
+with the new image that was produced the file was saved as a .ply file
+tried uploading to sketchfab
+file uploaded but there were parts of the image that were missing
+not sure eactly what occured
+tried using the file in a different format and exported as an .obj file
+same problem occured
+i hate sketchfab currently
+tried again and the file now has a colourful background
+where did the colour come from
+still hate sketchfab
+able to upload an image that is just a blank model of the image with no colour, still shows texture though
+need more time to try and figure out how to upload it without losing parts of the model
+Trying Meshlab again
 
-Turned the computer off and then turned it back on. 
+used the first version of the model from Regard3D
+repeated same steps to remove excess dots around image
+exported mesh as .obj file
+moved the previous .obj and .mtl files out of the folder, and put in seperate folder
+zipped the folder with the new .obj file in it
+upload to meshlab
+no more weird missing colour patches
+i hate meshlab less now
+new model
 
-Repeated same process and used Sublime Text Editor to see what was exactly displayed in the file.
-
-We Copied the camera model (xt1650) and pasted it into the file information slot, and then added the sensor width (5.8mm). 
-
-Everything was displayed! It Worked! (sort of)
-
-We clicked on "compute matches" and waited for Regard 3D to load... The result was a 3D image of 5 tiny square points. 
-
-We set match points to ultra and waited for Regard 3D to load once more.
-
-It took too long to load and we figured that the background in our pictures was confusing the software.
-
-We decided to try again another day.
-
-
-
+there are parts of the model missing, from when cleaning up the random dots
+will need to figure out how to attach everything together for next module when looking more into 3D printing
 
