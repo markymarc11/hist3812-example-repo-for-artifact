@@ -112,3 +112,21 @@ new model
 - there are parts of the model missing, from when cleaning up the random dots
 - will need to figure out how to attach everything together for next module when looking more into 3D printing
 
+# meshmixer
+- start off filling some of the wholes
+- step 1: edit- make solid
+- step 2: change "solid type" to sharp edge preserve
+- seems to have filled in all the holes from the original model, no more gaps between legs and in head
+- find model to remix with
+- download "Arabian Horse" from sketchfab
+- try to figure out how to put the two models together
+- open "arabien horse" in meshmixer
+- import terry file
+- select upper body of terry object
+- turn object to solid seperate part
+- delete full terry image
+- go to "mesh mix" and select "my part"
+- select the torso of Terry and drag onto screen
+- adjust it accordingly to give image of a centaur. where horses head is
+- 
+
