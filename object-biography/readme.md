@@ -8,4 +8,4 @@ Terry Fox never did recover from his cancer and passed away in New Westminster, 
 
 # Arabian Horse Biography
 
-The Arabian Horses have been around for thousands of years, having thier names given to them based off of their origins in the Arabian Peninsulas. Having been bred to be strong horses built for travelling long distances, in tough climates. Even to this day, they are still considered to be of the highet calibre of horses around. 
+The Arabian Horses have been around for thousands of years, having thier names given to them based off of their origins in the Arabian Peninsulas. Having been bred to be strong horses built for travelling long distances, in tough climates. Even to this day, they are still considered to be of the highet calibre of horses around. (Arabian Horses, 2018) https://www.arabianhorses.org/discover/arabian-horses/
