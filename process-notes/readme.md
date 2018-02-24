@@ -128,4 +128,7 @@ new model
 - go to "mesh mix" and select "my part"
 - select the torso of Terry and drag onto screen
 - adjust it accordingly to give image of a centaur. where horses head is
+- select the part of the horse that is behind terry's torso
+- once selected, use the delete key to get rid of it
+- select both of the objects in the object window and then "combine" them using the edit toolbar
 
