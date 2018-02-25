@@ -113,7 +113,7 @@ new model
 - will need to figure out how to attach everything together for next module when looking more into 3D printing
 
 # meshmixer
-- start off filling some of the wholes
+- start off filling some of the wholes in Terry image
 - step 1: edit- make solid
 - step 2: change "solid type" to sharp edge preserve
 - seems to have filled in all the holes from the original model, no more gaps between legs and in head, no more colour though, just the shading
