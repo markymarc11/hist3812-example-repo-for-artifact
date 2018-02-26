@@ -1,6 +1,6 @@
 # readme
 
-So starting to use the scann3D has been an interesting experience nto sure why but the picture kept on adding extra eyes to the scan tried taking out some of the blurry pictures, but that didn't work out very well at all still not sure what is wrong with it
+So starting to use the scann3D has been an interesting experience not sure why but the picture kept on adding extra eyes to the scan tried taking out some of the blurry pictures, but that didn't work out very well at all still not sure what is wrong with it
 
 Started work on 3d project today Tuesday 16th
 took pictures of Terry Fox statue in front of parliament hill
