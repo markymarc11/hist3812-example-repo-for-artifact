@@ -113,6 +113,8 @@ new model
 - will need to figure out how to attach everything together for next module when looking more into 3D printing
 
 # meshmixer
+- thought about what we could do to change our object, and decided changing terry's legs would be an interesting way to go about it. 
+- thought a centaur would be an interesting way of transforming him, so now we transforms
 - start off filling some of the wholes in Terry image
 - step 1: edit- make solid
 - step 2: change "solid type" to sharp edge preserve
