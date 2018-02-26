@@ -106,6 +106,9 @@ Module 2: History is a Remix
 
 meshmixer
 
+thought about what we could do to change our object, and decided changing terry's legs would be an interesting way to go about it. 
+thought a centaur would be an interesting way of transforming him, so now we transforms
+
 start off filling some of the wholes in Terry image
 
 step 1: edit- make solid
