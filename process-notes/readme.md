@@ -104,21 +104,40 @@ will need to figure out how to attach everything together for next module when l
 
 Module 2: History is a Remix
 
+meshmixer
+
 start off filling some of the wholes in Terry image
+
 step 1: edit- make solid
+
 step 2: change "solid type" to sharp edge preserve
+
 seems to have filled in all the holes from the original model, no more gaps between legs and in head, no more colour though, just the shading
+
 find model to remix with
+
 download "Arabian Horse" from sketchfab
+
 try to figure out how to put the two models together
+
 open "arabien horse" in meshmixer
+
 import terry file
+
 select upper body of terry object
+
 turn object to solid seperate part
+
 delete full terry image
+
 go to "mesh mix" and select "my part"
+
 select the torso of Terry and drag onto screen
+
 adjust it accordingly to give image of a centaur. where horses head is
+
 select the part of the horse that is behind terry's torso
+
 once selected, use the delete key to get rid of it
+
 select both of the objects in the object window and then "combine" them using the edit toolbar
