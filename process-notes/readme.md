@@ -134,3 +134,11 @@ new model
 - once selected, use the delete key to get rid of it
 - select both of the objects in the object window and then "combine" them using the edit toolbar
 
+# module 3
+
+# Twinery Game
+- game about terry and the horse becoming the centaur in the end
+- game starts
+- player given either horse or terry character using either function (https://twinery.org/wiki/function)
+- Gives story for the two options after given, using historical facts and other such things to progress the story
+- 
