@@ -8,3 +8,5 @@
 - not much was changed from the previous module, but it was still well done
 # Active Listening, attention in lectures, collaborative reading 4.5/5
 - Good knowledge of what was done in class, and notes taken in accordance, as well as active participation in group discussions. Collaborative reading could have been a little bit better, and more indepth
+
+# 18.5/20
