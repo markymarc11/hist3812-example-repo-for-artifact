@@ -152,4 +152,5 @@ new model
 - come to an option where you must choose head or tailhttps://twinery.org/wiki/function using the either function
 - set it up so it randomly chooses one when you make your choice 
 - depending on what you chose your answer will be right or wrong, and thus you get sent to the correspongding spot
-- 
+- Continue story to end it off with either losing or getting to the final objective
+- export the file and upload using philome.la
