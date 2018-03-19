@@ -1,5 +1,4 @@
 # bibliography
-
 Terry Fox Statue, Downtown Ottawa, Across from Parliament Hill
 
 Benjamin, Walter. 1969. The Work of Art in the Age of Mechanical Reproduction. New York: Schocken Books.
@@ -7,6 +6,10 @@ Benjamin, Walter. 1969. The Work of Art in the Age of Mechanical Reproduction. N
 Carter, Michael. 2017. The Life of Attributes: Meta and Paradata as 3D Point and Object DNA for Heritage Providence. Ryerson University.
 
 Copplestone, Tara. 2018. Making Things: Photobashing as Archaeological Redemption?. Gamingachaeo.
+
+Copplestone, Tara & Daniel Dunne. “Introduction to Narratives and Narrative Structures”. Digital Media, Creativity, Narrative Structure and Heritage. Internet Archaeology: 2017.
+
+Graham, Shawn, & Kevin Kee. “Teaching History in an Age of Pervasive Computing: The Case for Games in the High School and Undergraduate Classroom.” Digital Culture Books. Michigan Publishing: 2014.
 
 David W. Anthony. 2010. The Horse, the Wheel, and Language. New York: Princeton University Press.
 
@@ -28,6 +31,4 @@ Reilly, Paul. 2015. Palimpsests of Immaterial Assemblages Taken out of Context: 
 
 Scobie, Alex. 1978. The Origins of ‘Centaurs’. Taylor & Francis Ltd.
 
-Terry’s Story. Terry Fox Foundation. http://www.terryfox.org/terrys-story/.
-
-
+2018. Terry’s Story. Terry Fox Foundation. http://www.terryfox.org/terrys-story/.
