@@ -151,6 +151,16 @@ new model
 - making a strange story for the horse
 - come to an option where you must choose head or tailhttps://twinery.org/wiki/function using the either function
 - set it up so it randomly chooses one when you make your choice 
-- depending on what you chose your answer will be right or wrong, and thus you get sent to the correspongding spot
+- depending on what you chose your answer will be right or wrong, and thus you get sent to the corresponding spot
 - Continue story to end it off with either losing or getting to the final objective
 - export the file and upload using philome.la
+
+# module 4
+
+# 3D printing Terry the Centaur
+- open up obj file in 3D Builder
+- Re-save file as .stl file
+- send to carleton university discovery centre for printing
+- pick up from printing
+- remove extra 3D printed parts
+- the end
