@@ -33,4 +33,4 @@ Scobie, Alex. 1978. The Origins of ‘Centaurs’. Taylor & Francis Ltd.
 
 2018. Terry’s Story. Terry Fox Foundation. http://www.terryfox.org/terrys-story/.
 
-3D Printing Industry. 2018. The Free Beginners Guide, History. https://3dprintingindustry.com/3d-printing-basics-free-beginners-guide. (Accessed on April 3, 2018)
+3D Printing Industry. 2018. The Free Beginners Guide, History of 3D Printing. https://3dprintingindustry.com/3d-printing-basics-free-beginners-guide. (Accessed on April 3, 2018)
